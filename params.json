@@ -1,0 +1,6 @@
+{
+  "name": "MultiplePassesSGM",
+  "tagline": "Multiple passes stochastic gradient method",
+  "body": "# MultiplePassesSGM\r\nMultiple passes stochastic gradient method\r\n\r\nThis code replicates the results of \"Generalization Properties and Implicit Regularization for Multiple Passes SGM\", appearing in ICML 2016.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
